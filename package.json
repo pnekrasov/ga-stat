@@ -1,7 +1,7 @@
 {
-  "name": "ga-stats",
+  "name": "ga-stat",
   "version": "1.0.0",
-  "description": "",
+  "description": "GA Stats reads historical data from Google Analytics, displays it on the screen and writes it into database table",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
