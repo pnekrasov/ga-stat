@@ -13,11 +13,11 @@ npm start
 1. Create GA configuration file `config/ga.json`
 ```json
 {
-  "counter": "XXXXXX",
+  "counter": 123456,
   "metric": "ga:users"
 }
 ```
-Place GA counter ID instead of XXXXXX.
+Place GA counter ID instead of 123456.
 
 2. Run MySQL instance and create a new table
 ```sql
