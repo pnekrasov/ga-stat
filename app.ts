@@ -1,4 +1,3 @@
-/* eslint-disable @typescript-eslint/no-var-requires */
 import * as path from 'path';
 import { google } from 'googleapis';
 import { Stats } from './model/stats';
