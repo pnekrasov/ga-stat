@@ -1,9 +1,3 @@
-/*
- Copyright Iskra LLC, Saint-Petersburg, Russia.
- Distribution, reproduction, or derivative works are not permited.
- Contact email: support@iskra-lab.com.
-*/
-
 import { Model, DataTypes } from 'sequelize';
 import { sequelize } from '../database';
 
